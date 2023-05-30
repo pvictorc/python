@@ -12,7 +12,7 @@ Student = namedtuple( 'Student', labels )
 avg = 0
 rows = []
 for i in range(n):
-    data = list(input().split())
+    data = input().split()
 
     student = Student(ID= data[id_column['ID']],
             MARKS= int(data[id_column['MARKS']]),
