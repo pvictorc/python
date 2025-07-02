@@ -434,4 +434,6 @@ if __name__ == '__main__':
     tree.insert(19)
     tree.draw()
     tree.delete_subtree(10)
+
+
     print(len(tree))
