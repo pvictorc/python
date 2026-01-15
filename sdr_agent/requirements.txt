@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic>=2
+python-dotenv
+scikit-learn
+numpy
+pytest
+requests
