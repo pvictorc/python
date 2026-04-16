@@ -1,2 +1,4 @@
 examples/piper-tts/.venv/
 */venv/
+examples/*
+exercises/__pycache__/*
